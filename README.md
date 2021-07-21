@@ -32,6 +32,7 @@
 * _clean-webpack-plugin 3.0.0_
 * _CSS_
 * _css-loader 3.2.0_
+* _dotenv-webpack@2.0.0_
 * _eslint 6.3.0_
 * _eslint-loader 3.0.0_
 * _file-loader 1.1.6_
